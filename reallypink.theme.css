@@ -1,0 +1,41 @@
+/**
+ * @name Really Pink
+ * @description Allows you to customize Discord's native Color Scheme.
+ * @author DevilBro
+ * @version 1.0.0
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=antic:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 233,30,99;
+  --accentcolor2: 233,30,99;
+  --linkcolor: 233,30,99;
+  --mentioncolor: 233,30,99;
+  --textbrightest: 127,127,127;
+  --textbrighter: 255,255,255;
+  --textbright: 255,0,87;
+  --textdark: 85,85,85;
+  --textdarker: 105,3,38;
+  --textdarkest: 62,34,43;
+  --font: antic;
+  --backgroundaccent: 76,0,26;
+  --backgroundprimary: 32,0,11;
+  --backgroundsecondary: 22,0,7;
+  --backgroundsecondaryalt: 46,0,16;
+  --backgroundtertiary: 58,0,20;
+  --backgroundfloating: 20,0,7;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
