@@ -1,0 +1,41 @@
+/**
+ * @name salmonskin
+ * @description Allows you to customize Discord's native Color Scheme.
+ * @author DevilBro
+ * @version 1.0.0
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=ubuntu:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 233,0,79;
+  --accentcolor2: 202,0,69;
+  --linkcolor: 255,133,174;
+  --mentioncolor: 250,166,26;
+  --textbrightest: 255,87,144;
+  --textbrighter: 255,255,255;
+  --textbright: 255,0,87;
+  --textdark: 255,0,87;
+  --textdarker: 143,0,49;
+  --textdarkest: 159,0,54;
+  --font: ubuntu;
+  --backgroundaccent: 95,0,32;
+  --backgroundprimary: 64,0,22;
+  --backgroundsecondary: 60,0,20;
+  --backgroundsecondaryalt: 52,0,18;
+  --backgroundtertiary: 34,0,11;
+  --backgroundfloating: 42,0,14;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
