@@ -1,0 +1,41 @@
+/**
+ * @name latoamoledpink
+ * @description Allows you to customize Discord's native Color Scheme.
+ * @author DevilBro
+ * @version 1.0.0
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=lato:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 165,0,56;
+  --accentcolor2: 233,30,99;
+  --linkcolor: 233,30,99;
+  --mentioncolor: 233,30,99;
+  --textbrightest: 255,255,255;
+  --textbrighter: 255,255,255;
+  --textbright: 255,0,87;
+  --textdark: 80,80,80;
+  --textdarker: 233,30,99;
+  --textdarkest: 96,0,32;
+  --font: lato;
+  --backgroundaccent: 50,0,17;
+  --backgroundprimary: 6,6,6;
+  --backgroundsecondary: 0,0,0;
+  --backgroundsecondaryalt: 0,0,0;
+  --backgroundtertiary: 0,0,0;
+  --backgroundfloating: 0,0,0;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
